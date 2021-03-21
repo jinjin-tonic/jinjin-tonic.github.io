@@ -1,14 +1,31 @@
 ---
-title: Description of an Alembic
+title: Leetcode study day 1
 categories:
-- General
+- Leetcode
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+Today, I have studied [a leetcode problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-<!-- more -->
+I found this solution was really helpful:
 
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
+```python
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        i = 0
+        while i < len(nums)-1:
+            if nums[i] == nums[i+1]:
+                del nums[i]
+            else:
+                i += 1
+        return len(nums)
+```
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+- in-place deletion method `del`
+- loop end condition: when i >= len(nums)-1
+    - [0, 1, 2, 3, 4]
+    - The maximum index can only be less than len(nums)-1 (5 nums -> index 0 ~ 4 etc.)
