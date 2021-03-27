@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: 
 feature_text: |
   ## Welcome to Jin's blog :)
   My name is Haejin Cho, studying data science specialized in natural language processing.
