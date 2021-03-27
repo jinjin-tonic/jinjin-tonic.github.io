@@ -11,21 +11,21 @@ feature_image: "background2.png"
 I am Haejin Cho (조해진), or just Jin, and thanks for visiting my personal blog!
 
 #### A brief (TMI) history of me
-I was born in Masan, a small city near the sea in Korea, in a Korea-Vietnam mixed family. I was a girl who loves imagination, playing piano, playing games, and reading novels. I also dreamed about living in a BIG city like Seoul or Tokyo. I miss my home village now, but I still like big cities 😆
+I was born in Masan, a small city near the sea in Korea, in a Korea-Vietnam mixed family. I was a girl who loved imagination, playing piano, playing games, and reading novels. I also dreamed about living in a BIG city like Seoul or Tokyo. I miss my home town now, but I still like big cities 😆.
 
-After finishing high school, I moved to Seoul to study Korean language and literature at Yonsei University. During this time, I wasn't sure I really wanted to study my major 🤔 So, I tried *a lot of* different things to look for what I really wanted to do: Japanese literature, linguistics, *computer science*, law, information studies, making bubble tea 🧋, travel, etc.
+After finishing high school, I moved to Seoul to study Korean Language and Literature at Yonsei University. During this time, I wasn't sure I really wanted to pursue my major 🤔. So, I tried *a lot of* different things to look for what I really wanted to do: Japanese literature, linguistics, *computer science*, law, information studies, making bubble tea 🧋, traveling, etc.
 
-Without knowing what I really wanted to do, I moved to Canada to find things that I love and try new things in a new environment. I started learning English and French in Montreal, and also, I started studying math and CS, which made me excited! I thought it would be cool to combine CS and my background, linguistics. So, I applied to UBC, accepted, and am very enjoying my study right now!
+Without knowing what I really wanted to do, I moved to Canada to discover new interests and try different things in an unfamiliar environment. I started learning English and French in Montreal, and also, I started studying math and CS, which was really exciting to me! I thought it would be cool to combine CS and my background (linguistics), so, I applied to UBC, was accepted, and am now really enjoying my day to day studying!
 
-I am looking forward to see what is going to happen next in my life; what I am going to learn and challenge, and also, where I am going to live 😉
+I am looking forward to seeing what will happen next in my life; what I am going to learn and challenge, and also, where I am going to live 😉
 
 #### Do you want to know what I study?
 
 - You can check out my [resume](https://github.com/jinjin-tonic/jinjin-tonic.github.io/blob/main/resume.pdf).
-- Or, you can reach me out via my eamil, [miroirs299] at gmail or [my LinkedIn profile](https://www.linkedin.com/in/haejin-cho-220a3a1b2/).
-- Sometimes, I write things about my study and my academic/personal projects [in this blog](https://jinjin-tonic.github.io/blog/).
+- Or, you can reach out to me via my email, [miroirs299] at gmail or [my LinkedIn profile](https://www.linkedin.com/in/haejin-cho-220a3a1b2/).
+- Sometimes, I write things about school and my academic/personal projects [in this blog](https://jinjin-tonic.github.io/blog/).
 
-#### What I like other than study
+#### What I like other than studying
 
 - 🎹 playing piano (especially playing four hands with my friends!)
 - 🎮 playing video games
