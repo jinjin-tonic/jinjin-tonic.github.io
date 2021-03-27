@@ -30,3 +30,8 @@ I am looking forward to see what is going to happen next in my life; what I am g
 - 🎹 playing piano (especially playing four hands with my friends!)
 - 🎮 playing video games
 - 🇰🇷 🇯🇵 🇨🇦 🇫🇷 Learning languages
+
+
+#### Attribution
+- Background image <a href="http://www.freepik.com">Designed by starline / Freepik</a>
+- [Alembic Theme](https://darn.es/)
