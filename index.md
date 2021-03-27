@@ -10,8 +10,6 @@ feature_image: "background.png"
 #### Hi 👋 !
 I am Haejin Cho (조해진), or just Jin, and thanks for visiting my personal blog!
 
-
-
 #### A brief (TMI) history of me
 I was born in Masan, a small city near the sea in Korea, in a Korea-Vietnam mixed family. I was a girl who loves imagination, playing piano, playing games, and reading novels. I also dreamed about living in a BIG city like Seoul or Tokyo. I miss my home village now, but I still like big cities 😆
 
@@ -21,15 +19,14 @@ Without knowing what I really wanted to do, I moved to Canada to find things tha
 
 I am looking forward to see what is going to happen next in my life; what I am going to learn and challenge, and also, where I am going to live 😉
 
-
-#### What I like other than study
-- 🎹 playing piano (especially playing four hands with my friends!)
-- 🎮 playing video games
-- 🇰🇷 🇨🇦 🇫🇷 🇯🇵 Learning languages
-
-
-#### Do you want to know more about me?
+#### Do you want to know what I study?
 
 - You can check out my [resume](https://github.com/jinjin-tonic/jinjin-tonic.github.io/blob/main/resume.pdf).
-- Or, you can reach me out via [my eamil](miroirs299@gmail.com).
-- Also, you can check out my [Linkedin profile](https://www.linkedin.com/in/haejin-cho-220a3a1b2/) as well!
+- Or, you can reach me out via [my eamil](miroirs299@gmail.com) or [my LinkedIn profile](https://www.linkedin.com/in/haejin-cho-220a3a1b2/).
+- Sometimes, I write things about my study and my academic/personal projects [in this blog](https://jinjin-tonic.github.io/blog/).
+
+#### What I like other than study
+
+- 🎹 playing piano (especially playing four hands with my friends!)
+- 🎮 playing video games
+- 🇰🇷 🇯🇵 🇨🇦 🇫🇷 Learning languages
