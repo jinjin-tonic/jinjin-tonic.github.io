@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Welcome to Jin's blog :)
   My name is Haejin Cho, studying data science specialized in natural language processing.
-feature_image: "background.png"
+feature_image: "background2.png"
 # excerpt: "Something"
 ---
 
