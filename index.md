@@ -27,7 +27,7 @@ I am looking forward to seeing what will happen next in my life; what I am going
 
 #### What I like other than studying
 
-- 🎹 playing piano (especially playing four hands with my friends!)
+- 🎹 playing piano
 - 🎮 playing video games
 - 🇰🇷 🇯🇵 🇨🇦 🇫🇷 Learning languages
 
