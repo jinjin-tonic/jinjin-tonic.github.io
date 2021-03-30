@@ -2,7 +2,7 @@
 title: Project - building a multilingual parallel corpus using TED transcripts
 categories:
 - Academic-project
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/interface.png"
 ---
 
 In this project, I and my teammate built a multilingual corpus using TED transcripts with the named entity annotation. 
