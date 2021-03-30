@@ -187,7 +187,7 @@ if we assign a task to confirm (or correct) the label of “**neuroscientists**�
 
 So, each annotator will decide whether the current label is correct for the entity. If it is correct, they will choose “yes”, and if it is incorrect, they will choose “no” along with the most appropriate label.
 
- The list of labels of named entity is as follows.
+The list of labels of named entity is as follows.
  
 | Type        | Description                                          |
 |-------------|------------------------------------------------------|
@@ -210,6 +210,7 @@ So, each annotator will decide whether the current label is correct for the enti
 | ORDINAL     | “first”, “second”, etc.                              |
 | CARDINAL    | Numerals that do not fall under another type.        |
 | N/A         | If any of the above is applied.                      |
+
 source: [spaCy](https://spacy.io/usage/linguistic-features#named-entities) 
 
 ### 5.3 Update labels with the human-fixed labels
@@ -286,7 +287,7 @@ The best labels were selected by the principle of majority vote from the three w
 
 ## 6. Building and Deploying an Interface
 
-<img src="_images/interface.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/interface.png">
 
 To respect the policy of TED, we cannot distirubte the corpus that we built. 
 Therefore, I will just introduce the functions of the interface with the screen captures below.
@@ -296,25 +297,25 @@ Therefore, I will just introduce the functions of the interface with the screen 
 #### 6.1.1 Search for paragraphs using a keyword
 
 ##### Image1. Search keyword with the default setting
-<img src="_images/search_keyword_1.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/search_keyword_1.png">
 
 ##### Image2. search keyword in English, Korean paragraphs
-<img src="_images/search_keyword_2.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/search_keyword_2.png">
 
 ##### Image3. rendering paragraphs and named entity annotations with displaCy
-<img src="_images/search_keyword_3.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/search_keyword_3.png">
 
 #### 6.1.2 Search for the contexts surrounding a named entity
 
-<img src="_images/search_entity.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/search_entity.png">
 
 #### 6.1.3 Search for the contexts surrounding a named entity label
 
-<img src="_images/search_label.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/search_label.png">
 
 #### 6.2 Other available functions
 
-<img src="_images/data-viz.png">
+<img src="https://raw.githubusercontent.com/jinjin-tonic/jinjin-tonic.github.io/main/_posts/_images/data-viz.png">
 
 	a. Main Page: Move to the main page.
 	b. Demo Video!: Open our demo video.
