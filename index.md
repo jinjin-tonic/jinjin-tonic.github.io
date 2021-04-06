@@ -21,7 +21,7 @@ I am looking forward to seeing what will happen next in my life; what I am going
 
 #### Do you want to know what I study?
 
-- You can check out my [resume](https://github.com/jinjin-tonic/jinjin-tonic.github.io/blob/main/resume.pdf).
+- You can check out my [resume](https://github.com/jinjin-tonic/jinjin-tonic.github.io/blob/main/resume/resume-v0406.pdf).
 - Or, you can reach out to me via my email, [miroirs299] at gmail or [my LinkedIn profile](https://www.linkedin.com/in/haejin-cho-220a3a1b2/).
 - Sometimes, I write things about school and my academic/personal projects [in this blog](https://jinjin-tonic.github.io/blog/).
 
